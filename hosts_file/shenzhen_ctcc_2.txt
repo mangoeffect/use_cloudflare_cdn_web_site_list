@@ -1,0 +1,121 @@
+#cloudflare host
+104.16.244.150		nginx.com
+ 
+104.16.244.150		cloudflare.com
+104.16.244.150		www.cloudflare.com
+104.16.244.150		cdnjs.cloudflare.com
+104.16.244.150		api.cloudflare.com
+104.16.244.150		dash.cloudflare.com
+104.16.244.150		platform.dash.cloudflare.com
+104.16.244.150		info.cloudflare.com
+104.16.244.150		sparrow.cloudflare.com
+104.16.244.150		assets.www.cloudflare.com
+104.16.244.150		videodelivery.net
+ 
+104.16.244.150		cdnjs.com
+104.16.244.150		namecheap.com
+104.16.244.150		networksolutions.com
+104.16.244.150		medium.com
+104.16.244.150		creativecommons.org
+104.16.244.150		namebright.com
+104.16.244.150		jsdelivr.com
+104.16.244.150		yelp.com
+104.16.244.150		shopify.com
+104.16.244.150		arnebrachhold.de
+104.16.244.150		npmjs.com
+104.16.244.150		packtpub.com
+104.16.244.150		jquery.com
+104.16.244.150		digitalocean.com
+104.16.244.150		allaboutcookies.org
+104.16.244.150		itch.io
+104.16.244.150		attracta.com
+104.16.244.150		js.foundation
+104.16.244.150		who.int
+104.16.244.150		manning.com
+104.16.244.150		jquery.org
+104.16.244.150		elegantthemes.com
+104.16.244.150		namesilo.com
+104.16.244.150		nodejs.org
+104.16.244.150		sharray.net
+104.16.244.150		domainmarket.com
+104.16.244.150		digg.com
+104.16.244.150		tinyurl.com
+104.16.244.150		parallels.com
+104.16.244.150		nativoo.es
+104.16.244.150		pirillo.com
+104.16.244.150		moodle.org
+104.16.244.150		chatsiteleri.name.tr
+104.16.244.150		sohbetsitesi.name.tr
+104.16.244.150		istanbulsohbet.name.tr
+104.16.244.150		yetiskinsohbet.name.tr
+104.16.244.150		sciencedirect.com
+104.16.244.150		constantcontact.com
+104.16.244.150		doi.org
+104.16.244.150		discord.gg
+104.16.244.150		acm.org
+104.16.244.150		discordapp.com
+104.16.244.150		researchgate.net
+104.16.244.150		value-domain.com
+104.16.244.150		clickfunnels.com
+104.16.244.150		zeldman.com
+104.16.244.150		patreon.com
+104.16.244.150		simplebits.com
+ 
+104.16.244.150		www.v2ex.com
+104.16.244.150		v2ex.com
+104.16.244.150		cdn.v2ex.com
+104.16.244.150		cn.v2ex.com
+104.16.244.150		hk.v2ex.com
+104.16.244.150		i.v2ex.com
+104.16.244.150		lax.v2ex.com
+104.16.244.150		neue.v2ex.com
+104.16.244.150		pagespeed.v2ex.com
+104.16.244.150		static.v2ex.com
+104.16.244.150		workspace.v2ex.com
+ 
+104.16.244.150		www.nexusmods.com
+104.16.244.150		staticdelivery.nexusmods.com
+104.16.244.150		cf-files.nexusmods.com
+104.16.244.150		staticstats.nexusmods.com
+104.16.244.150		users.nexusmods.com
+ 
+104.16.244.150		wall.alphacoders.com
+104.16.244.150		static.alphacoders.com
+104.16.244.150		images.alphacoders.com
+104.16.244.150		images2.alphacoders.com
+104.16.244.150		images3.alphacoders.com
+104.16.244.150		images4.alphacoders.com
+104.16.244.150		images5.alphacoders.com
+104.16.244.150		images6.alphacoders.com
+104.16.244.150		images7.alphacoders.com
+104.16.244.150		images8.alphacoders.com
+ 
+104.16.244.150		hcaptcha.com
+104.16.244.150		assets.hcaptcha.com
+104.16.244.150		imgs.hcaptcha.com
+ 
+104.16.244.150		discord.com
+104.16.244.150		discordapp.com
+104.16.244.150		dl.discordapp.net
+104.16.244.150		gateway.discord.gg
+104.16.244.150		status.discordapp.com
+104.16.244.150		cdn.discordapp.com
+104.16.244.150		media.discordapp.net
+104.16.244.150		images-ext-2.discordapp.net
+104.16.244.150		images-ext-1.discordapp.net
+104.16.244.150		discordcdn.com
+ 
+104.16.244.150		faceit-client.faceit-cdn.net
+104.16.244.150		anticheat-client.faceit-cdn.net
+104.16.244.150		download-alt.easyanticheat.net
+ 
+104.16.244.150		api.greenmangaming.com
+104.16.244.150		images.greenmangaming.com
+104.16.244.150		media.greenmangaming.com
+104.16.244.150		www.greenmangaming.com
+ 
+104.16.244.150		www.wemod.com
+104.16.244.150		api.wemod.com
+104.16.244.150		storage-cdn.wemod.com
+104.16.244.150		community.wemod.com
+ 
