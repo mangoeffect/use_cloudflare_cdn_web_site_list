@@ -1,0 +1,121 @@
+#深圳电信1
+162.159.130.66		nginx.com
+ 
+162.159.130.66		cloudflare.com
+162.159.130.66		www.cloudflare.com
+162.159.130.66		cdnjs.cloudflare.com
+162.159.130.66		api.cloudflare.com
+162.159.130.66		dash.cloudflare.com
+162.159.130.66		platform.dash.cloudflare.com
+162.159.130.66		info.cloudflare.com
+162.159.130.66		sparrow.cloudflare.com
+162.159.130.66		assets.www.cloudflare.com
+162.159.130.66		videodelivery.net
+ 
+162.159.130.66		cdnjs.com
+162.159.130.66		namecheap.com
+162.159.130.66		networksolutions.com
+162.159.130.66		medium.com
+162.159.130.66		creativecommons.org
+162.159.130.66		namebright.com
+162.159.130.66		jsdelivr.com
+162.159.130.66		yelp.com
+162.159.130.66		shopify.com
+162.159.130.66		arnebrachhold.de
+162.159.130.66		npmjs.com
+162.159.130.66		packtpub.com
+162.159.130.66		jquery.com
+162.159.130.66		digitalocean.com
+162.159.130.66		allaboutcookies.org
+162.159.130.66		itch.io
+162.159.130.66		attracta.com
+162.159.130.66		js.foundation
+162.159.130.66		who.int
+162.159.130.66		manning.com
+162.159.130.66		jquery.org
+162.159.130.66		elegantthemes.com
+162.159.130.66		namesilo.com
+162.159.130.66		nodejs.org
+162.159.130.66		sharray.net
+162.159.130.66		domainmarket.com
+162.159.130.66		digg.com
+162.159.130.66		tinyurl.com
+162.159.130.66		parallels.com
+162.159.130.66		nativoo.es
+162.159.130.66		pirillo.com
+162.159.130.66		moodle.org
+162.159.130.66		chatsiteleri.name.tr
+162.159.130.66		sohbetsitesi.name.tr
+162.159.130.66		istanbulsohbet.name.tr
+162.159.130.66		yetiskinsohbet.name.tr
+162.159.130.66		sciencedirect.com
+162.159.130.66		constantcontact.com
+162.159.130.66		doi.org
+162.159.130.66		discord.gg
+162.159.130.66		acm.org
+162.159.130.66		discordapp.com
+162.159.130.66		researchgate.net
+162.159.130.66		value-domain.com
+162.159.130.66		clickfunnels.com
+162.159.130.66		zeldman.com
+162.159.130.66		patreon.com
+162.159.130.66		simplebits.com
+ 
+162.159.130.66		www.v2ex.com
+162.159.130.66		v2ex.com
+162.159.130.66		cdn.v2ex.com
+162.159.130.66		cn.v2ex.com
+162.159.130.66		hk.v2ex.com
+162.159.130.66		i.v2ex.com
+162.159.130.66		lax.v2ex.com
+162.159.130.66		neue.v2ex.com
+162.159.130.66		pagespeed.v2ex.com
+162.159.130.66		static.v2ex.com
+162.159.130.66		workspace.v2ex.com
+ 
+162.159.130.66		www.nexusmods.com
+162.159.130.66		staticdelivery.nexusmods.com
+162.159.130.66		cf-files.nexusmods.com
+162.159.130.66		staticstats.nexusmods.com
+162.159.130.66		users.nexusmods.com
+ 
+162.159.130.66		wall.alphacoders.com
+162.159.130.66		static.alphacoders.com
+162.159.130.66		images.alphacoders.com
+162.159.130.66		images2.alphacoders.com
+162.159.130.66		images3.alphacoders.com
+162.159.130.66		images4.alphacoders.com
+162.159.130.66		images5.alphacoders.com
+162.159.130.66		images6.alphacoders.com
+162.159.130.66		images7.alphacoders.com
+162.159.130.66		images8.alphacoders.com
+ 
+162.159.130.66		hcaptcha.com
+162.159.130.66		assets.hcaptcha.com
+162.159.130.66		imgs.hcaptcha.com
+ 
+162.159.130.66		discord.com
+162.159.130.66		discordapp.com
+162.159.130.66		dl.discordapp.net
+162.159.130.66		gateway.discord.gg
+162.159.130.66		status.discordapp.com
+162.159.130.66		cdn.discordapp.com
+162.159.130.66		media.discordapp.net
+162.159.130.66		images-ext-2.discordapp.net
+162.159.130.66		images-ext-1.discordapp.net
+162.159.130.66		discordcdn.com
+ 
+162.159.130.66		faceit-client.faceit-cdn.net
+162.159.130.66		anticheat-client.faceit-cdn.net
+162.159.130.66		download-alt.easyanticheat.net
+ 
+162.159.130.66		api.greenmangaming.com
+162.159.130.66		images.greenmangaming.com
+162.159.130.66		media.greenmangaming.com
+162.159.130.66		www.greenmangaming.com
+ 
+162.159.130.66		www.wemod.com
+162.159.130.66		api.wemod.com
+162.159.130.66		storage-cdn.wemod.com
+162.159.130.66		community.wemod.com
+ 
