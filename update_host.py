@@ -17,7 +17,7 @@ def IsDomain(domain):
 
 def update(ip, domain_file_path):
     dns_list = ["#cloudflare host\n"]
-    dns_list.append("https://github.com/mangosroom/use_cloudflare_cdn_web_site_list\n")
+    dns_list.append("#https://github.com/mangosroom/use_cloudflare_cdn_web_site_list\n")
     with open(str(domain_file_path),'r') as fr:
         line =fr.readline()
         while line:
