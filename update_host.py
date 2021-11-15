@@ -27,7 +27,7 @@ def update(ip, domain_file_path):
                 dns_list.append(" \n")
             line=fr.readline()
     fr.close()
-    with open('./hosts_file/shenzhen_ctcc_2.txt', 'w') as fw:
+    with open('./hosts_file/shenzhen_ctcc_1.txt', 'w') as fw:
         for dns in dns_list:
             fw.writelines(dns)
     fw.close()
