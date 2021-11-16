@@ -2,7 +2,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-git checkout shenzhen1
+::git checkout shenzhen1
 
 :: select the best ip for cloudflare
 echo.|CloudflareST.exe
