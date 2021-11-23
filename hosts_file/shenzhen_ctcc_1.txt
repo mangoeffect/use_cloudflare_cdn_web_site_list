@@ -1,5 +1,6 @@
 #cloudflare host
 #https://github.com/mangosroom/use_cloudflare_cdn_web_site_list
+<<<<<<< HEAD
 1.1.1.177		nginx.com
  
 1.1.1.177		cloudflare.com
@@ -123,3 +124,128 @@
 1.1.1.177		www.gov.hk
  
 1.1.1.177		ray.mangoroom.top
+=======
+104.16.50.139		nginx.com
+ 
+104.16.50.139		cloudflare.com
+104.16.50.139		www.cloudflare.com
+104.16.50.139		cdnjs.cloudflare.com
+104.16.50.139		api.cloudflare.com
+104.16.50.139		dash.cloudflare.com
+104.16.50.139		platform.dash.cloudflare.com
+104.16.50.139		info.cloudflare.com
+104.16.50.139		sparrow.cloudflare.com
+104.16.50.139		assets.www.cloudflare.com
+104.16.50.139		videodelivery.net
+ 
+104.16.50.139		cdnjs.com
+104.16.50.139		namecheap.com
+104.16.50.139		networksolutions.com
+104.16.50.139		medium.com
+104.16.50.139		creativecommons.org
+104.16.50.139		namebright.com
+104.16.50.139		jsdelivr.com
+104.16.50.139		yelp.com
+104.16.50.139		shopify.com
+104.16.50.139		arnebrachhold.de
+104.16.50.139		npmjs.com
+104.16.50.139		packtpub.com
+104.16.50.139		jquery.com
+104.16.50.139		digitalocean.com
+104.16.50.139		allaboutcookies.org
+104.16.50.139		itch.io
+104.16.50.139		attracta.com
+104.16.50.139		js.foundation
+104.16.50.139		who.int
+104.16.50.139		manning.com
+104.16.50.139		jquery.org
+104.16.50.139		elegantthemes.com
+104.16.50.139		namesilo.com
+104.16.50.139		nodejs.org
+104.16.50.139		sharray.net
+104.16.50.139		domainmarket.com
+104.16.50.139		digg.com
+104.16.50.139		tinyurl.com
+104.16.50.139		parallels.com
+104.16.50.139		nativoo.es
+104.16.50.139		pirillo.com
+104.16.50.139		moodle.org
+104.16.50.139		chatsiteleri.name.tr
+104.16.50.139		sohbetsitesi.name.tr
+104.16.50.139		istanbulsohbet.name.tr
+104.16.50.139		yetiskinsohbet.name.tr
+104.16.50.139		sciencedirect.com
+104.16.50.139		constantcontact.com
+104.16.50.139		doi.org
+104.16.50.139		discord.gg
+104.16.50.139		acm.org
+104.16.50.139		discordapp.com
+104.16.50.139		researchgate.net
+104.16.50.139		value-domain.com
+104.16.50.139		clickfunnels.com
+104.16.50.139		zeldman.com
+104.16.50.139		patreon.com
+104.16.50.139		simplebits.com
+ 
+104.16.50.139		www.v2ex.com
+104.16.50.139		v2ex.com
+104.16.50.139		cdn.v2ex.com
+104.16.50.139		cn.v2ex.com
+104.16.50.139		hk.v2ex.com
+104.16.50.139		i.v2ex.com
+104.16.50.139		lax.v2ex.com
+104.16.50.139		neue.v2ex.com
+104.16.50.139		pagespeed.v2ex.com
+104.16.50.139		static.v2ex.com
+104.16.50.139		workspace.v2ex.com
+ 
+104.16.50.139		www.nexusmods.com
+104.16.50.139		staticdelivery.nexusmods.com
+104.16.50.139		cf-files.nexusmods.com
+104.16.50.139		staticstats.nexusmods.com
+104.16.50.139		users.nexusmods.com
+ 
+104.16.50.139		wall.alphacoders.com
+104.16.50.139		static.alphacoders.com
+104.16.50.139		images.alphacoders.com
+104.16.50.139		images2.alphacoders.com
+104.16.50.139		images3.alphacoders.com
+104.16.50.139		images4.alphacoders.com
+104.16.50.139		images5.alphacoders.com
+104.16.50.139		images6.alphacoders.com
+104.16.50.139		images7.alphacoders.com
+104.16.50.139		images8.alphacoders.com
+ 
+104.16.50.139		hcaptcha.com
+104.16.50.139		assets.hcaptcha.com
+104.16.50.139		imgs.hcaptcha.com
+ 
+104.16.50.139		discord.com
+104.16.50.139		discordapp.com
+104.16.50.139		dl.discordapp.net
+104.16.50.139		gateway.discord.gg
+104.16.50.139		status.discordapp.com
+104.16.50.139		cdn.discordapp.com
+104.16.50.139		media.discordapp.net
+104.16.50.139		images-ext-2.discordapp.net
+104.16.50.139		images-ext-1.discordapp.net
+104.16.50.139		discordcdn.com
+ 
+104.16.50.139		faceit-client.faceit-cdn.net
+104.16.50.139		anticheat-client.faceit-cdn.net
+104.16.50.139		download-alt.easyanticheat.net
+ 
+104.16.50.139		api.greenmangaming.com
+104.16.50.139		images.greenmangaming.com
+104.16.50.139		media.greenmangaming.com
+104.16.50.139		www.greenmangaming.com
+ 
+104.16.50.139		www.wemod.com
+104.16.50.139		api.wemod.com
+104.16.50.139		storage-cdn.wemod.com
+104.16.50.139		community.wemod.com
+ 
+104.16.50.139		www.gov.hk
+ 
+104.16.50.139		ray.mangoroom.top
+>>>>>>> 65c24093690eb4b3efc98dee247f773f3b041ddc
